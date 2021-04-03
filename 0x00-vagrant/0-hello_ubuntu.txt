@@ -1,0 +1,5 @@
+when i run it without any option it shows this:
+vagrant@vagrant-ubuntu-trusty-64:~$ uname
+Linux
+vagrant@vagrant-ubuntu-trusty-64:~$ uname
+Linux
